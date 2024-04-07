@@ -1,0 +1,26 @@
+{
+    "name": "aboodma/eco_timezones",
+    "description": "Timeaones",
+    "type": "library",
+    "require": {
+        "php": ">=8.0",
+        "illuminate/support": "*"
+    },
+    "require-dev": {
+        "orchestra/testbench": "*",
+        "phpunit/phpunit": "*"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Aboodma\\EcoTimezones\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abdulrahman Mardinli",
+            "email": "34406204+aboodma@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
