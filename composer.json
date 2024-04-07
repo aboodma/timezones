@@ -2,6 +2,7 @@
     "name": "aboodma/eco_timezones",
     "description": "Timeaones",
     "type": "library",
+    "version": "1.0.0",
     "require": {
         "php": ">=8.0",
         "illuminate/support": "*"
